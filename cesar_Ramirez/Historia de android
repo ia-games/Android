@@ -1,0 +1,18 @@
+APL--->PL-->BCPL--->-B BPL---->JAVA
+
+
+el núcleo de Android es monolítico y esta basado en Linux
+Su núcleo esta codificado en C.
+trabaja algunas librerías realizadas en C++, 
+la UI(Interfaz) está en JAVA
+
+VERSIONES DE ANDROID
+
+Android 1.0: La primera versión oficial y definitiva, y encargada de estrenar la plataforma en el mercado fue Android 1.0, Llegó en el HTC Dream, el que es considerado el primer dispositivo comercial con Android incorporado, 
+Android 1.5 CUPCAKE: (API level 3) fue la primera en añadir el nombre dulce, la letra 'C'. Intuimos, por tanto, que la letra 'A' correspondería a 1.0, y la letra 'B' a la reducida y rápida 1.1.
+Android 1.6 DONUT  :(API level 4), que igualmente mantuvo la mayoría de los elementos de la interfaz ,pero añadió múltiples mejoras en cuanto a compatibilidad de hardware  o a reconocimiento de voz.
+Android 2.3 GINGERBREAD : (API level 9)estuvo a su altura y también es una de las grandes y más importantes versiones de Android, e igualmente sigue estando operativa con una cuota de mercado del 4.6%. 
+Android 3.0 HONEYCOMB: (API level 11), y es que ésta fue una versión que inicialmente era exclusiva de tablets - se estrenó con el Motorola Xoom 
+Android 4.1 JELLY BEAN: (API level 16) apareció en julio de 2012 con una estética similar, por no decir idéntica a la de ICS.
+Android 4.4 KITKAT: (API level 19), en octubre de 2013, que es una de las versiones que más cambios ha introducido tanto a nivel estético como, sobre todo, a nivel interno y con vistas al futuro.  Android 4.4 es hoy en día la versión más utilizada de Android en todo el mundo
+
