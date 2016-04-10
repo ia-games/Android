@@ -1,0 +1,21 @@
+Evolución Java – Android
+Moisés Isaí López Plasencia
+Inicios de Java
+En 1950, Patrick Naughton, ingeniero de Sun Microsystems, reclutó a varios colegas entre ellos James Gosling y Mike Sheridan para trabajar sobre un nuevo proyecto conocido como "El proyecto verde".
+El lenguaje de programación java fue diseñado en 1990 por James Gosling, de Sun Microsystems, como software para dispositivos electrónicos de consumo (calculadoras, microondas y la televisión interactiva). Lo bautizó como Oak.
+Primeras versiones
+El 3 de septiembre de 1992 se termina el desarrollo y con ello concluye el “proyecto verde”.
+En 1996 aparece una nueva versión de java: JDK 1.0. Un año después aparece la JDK 1.1.
+En 1998 lanzan J2SE. Esta y las siguientes versiones fueron recogidas bajo la denominación Java 2 y el nombre "J2SE" (Java 2 Platform, Standard Edition), reemplazó a JDK para distinguir la plataforma base de J2EE.
+En diciembre de 1998 se crea la versión J2SE 1.2, en el año 2000 la versión 1.3, en 2004 la versión 5.0. 
+En 2006 aparece la versione Java SE 6. Los cambios más importantes introducidos en esta versión son: Incluye un nuevo marco de trabajo y APIs que hacen posible la combinación de Java con lenguajes dinámicos como PHP, Python, Ruby y JavaScript.
+Tiempo después se actualiza a SE 7 que da Soporte para XML dentro del propio lenguaje, Introducción de anotaciones estándar para detectar fallos en el software.
+En el 2014 y la versión más actual, se da a conocer Java SE 8 con las siguientes novedades:
+*Incorpora de forma completa la librería JavaFX.
+*Diferentes mejoras en seguridad y concurrencia
+*Añade funcionalidad para programación funcional mediante expresiones Lambda.
+*Nuevas API
+Relación con Android
+Android es un sistema operativo basado en Linux y a partir de este bloque utiliza librerías y otras aplicaciones para su funcionamiento. Fue diseñado principalmente para dispositivos móviles con pantalla táctil pero ahora está presente en relojes, autos televisiones y otros aparatos electrónicos.
+ 
+Gran cantidad de aplicaciones de Android Están hechas en Java, es por eso que el sistema operativo utiliza una máquina virtual llamada “Dalvik” que se encarga de interpretar lo escrito en java y así dar funcionamiento a estas aplicaciones.

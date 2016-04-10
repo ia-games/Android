@@ -1,0 +1,28 @@
+VERSIONES DE ANDROID
+1. Alfa y Beta: Versiones que fueron sacadas por Google al haber comprado la compaía en 2007. SDK's eran públicos ya que no había dispositivos comerciales que soportaran el sistema operativo.
+
+2. Android 1.0: Primera versión definitiva del sistema operativo como tal. Proponía una tienda de aplicaciones llamada Android Market, así como compatibilidad y sincronización con los múltiples servicios de aplicaciones de Google (Maps, Contactos, Calendar, mensajería instantánea e incluso Youtube.
+
+3. Android 1.5 (Cupcake): Primera gran versión de Android.Se introdujeron los widgets en las pantallas de Android, las transiciones animadas y se mejoraron muchas de las apps integradas en el sistema, como los contactos o Youtube. Recibió mucho más soporte de compañías de dispositivos móbiles. 
+
+4. Android 1.6 (Donut): Añadió múltiples mejoras en cuanto a compatibilidad de hardware (soporte para redes CDMA/EVDO, VPNs) o a reconocimiento de voz.
+
+5. Android 2.0 (Éclair): La segunda gran versión vino acompañada de una amplia lista de mejoras y novedades, entre las que se incluyen mejor sistema de sincronización, soporte para ciertas tecnologías, cambios en la interfaz de algunas aplicaciones o nuevas 
+funcionalidades.
+
+6. Android 2.2 (Froyo): De las versiones más importantes de Android. Incluye mejoras de notificaciones push, un nuevo motor para el navegador, soporte para pantallas de alta resolución, instalación de apps en la memoria externa.
+
+7. Android 2.3 (Gingerbread): Esta versión trajo consigo cambios en la interfaz que su predecesor había introducido aunque añadió algunas modificaciones y mejoras que, principalmente, aludían a la velocidad de respuesta y a nuestra experiencia. Trajo compatibilidad con nuevas tecnologías como NFC o nuevas pantallas más grandes y con mejor resolución, y a nivel interno gozó de una cierta optimización para sacarle un mejor partido al hardware. Durante unos 10 meses se introdujeron un total de siete actualizaciones de Gingerbread que en la mayoría de los casos solucionarían bugs menores, pero que también permitieron conocer nuevas funcionalidades como Google Wallet, una de las tecnologías precursoras del actual pago en el móvil.
+
+8. Android 3.0 (Honeycomb): Fue una versión que inicialmente era exclusiva de tablets - se estrenó con el Motorola Xoom - y que luego se amplió a otros dispositivos como televisores Google TV. No fue muy exitosa por su separación de los dispositivos móbiles.
+
+9. Android 4.0 (Ice Cream Sandwich): La interfaz se renovó casi al completo gracias a la introducción de nuevos botones, iconos, barras de notificaciones o incluso a la tipografía utilizada, Roboto. La interfaz y la interacción del usuario cambió de forma tremendamente notable, a la vez que algunas funciones integradas (cámara, visor de fotografías, contactos) cambiaron para adoptar nuevas posibilidades. Igualmente tampoco se olvidaron de nuevas tecnologías como WiFi Direct, aceleración de vídeo vía hardware o grabación de vídeo 1080p.
+
+10. Android 4.1 (Jellybean): Google continuó mejorando y optimizando la plataforma, con ciertos cambios que proporcionaron una mayor fluidez general del sistema y aún mayor compatibilidad con el hardware. Jelly Bean fue la primera versión de Android para smartphones y tablets. Jelly Bean ha sido una de las versiones más longevas en la historia de Android.
+
+11. Android 4.4 (Kitkat): Es una de las versiones que más cambios ha introducido tanto a nivel estético como, sobre todo, a nivel interno. La versión más utilizada de Android hasta ahora.
+
+12. Android 5.0 (Lollipop): A parte de los cambios estéticos que tuvo esta versión más reciente, también tuvo cambios en cuanto a sus funciones como una nueva máquina virtual (ART), un nuevo sistema de notificaciones, mejor gestión de la energía, nuevo teclado y la definitiva unificación entre los sistemas de smartphone, tablet y también smartwatch y TV.
+
+13. Android 6.0 (Marshmallow): La interfaz se mantiene con pocos cambios respecto de Lollipop, con ese Material Design como principal valuarte. La novedad más importante es la introducción de la plataforma de pagos de Google, Android Pay, y es que ésta es una 
+funcionalidad prevé un enorme crecimiento durante los próximos años. También llega el soporte nativo para los lectores de huellas.
