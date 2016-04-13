@@ -1,0 +1,53 @@
+public class MiCuenta 
+{
+	//variable de dinero
+	private float dinero;
+	
+	//constructor normal
+	public MiCuenta()
+	{
+		dinero = 0;
+	}
+	
+	//constructor copia
+	public MiCuenta(MiCuenta _cuenta)
+	{
+		dinero = _cuenta.getDinero();
+	}
+	
+	//constructor con parametro
+	public MiCuenta(float _num)
+	{
+		dinero = _num;
+	}
+	
+	//metodo set
+	public void setDinero(float _dinero)
+	{
+		dinero = _dinero;
+	}
+	
+	//metodo get
+	public float getDinero()
+	{
+		return dinero;
+	}
+	
+	//metodo ingreso
+	public void ingreso(float _num)
+	{
+		dinero += _num;
+	}
+	
+	//metodo reintegro
+	public void reintegro()
+	{
+		//no se que debe ir aqui
+	}
+	
+	//metodo transferencia
+	public void transferencia()
+	{
+		//no se que debe ir aqui
+	}
+}
